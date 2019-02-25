@@ -1,6 +1,6 @@
 ### RPC日志提取及各种日志说明
 
-> 主要是针对**性能慢**的情况下拿的日志
+> 针对**性能慢**的情况下拿的日志
 
 #### 客户端RPC日志
 
@@ -12,7 +12,7 @@
 
 - 1、登陆堡垒机的浏览器
 
-- 2、输入http://对应eas应用服务端的IP地址:server1的jmx端口号（==例如：http://10.0.40.154:11029/==）。用户名密码：admin/admin
+- 2、输入http://对应eas应用服务端的IP地址:server1的jmx端口号（例如：http://10.0.40.154:11029/）。**用户名密码：admin/admin**
 
   > 注：server1的jmx端口号： 查看服务器中如下文件 profiles\server1\config\jmxconnector.properties 中的设置。
 
