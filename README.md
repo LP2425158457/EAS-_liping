@@ -21,3 +21,15 @@
 > 包括SVN服务器的使用
 
 2、GitHub的使用
+
+> 包括如何使用GitHub
+
+3、[常用Git操作](http://note.youdao.com/noteshare?id=37e3ab076683d4d0e31bbe891d840f95&sub=E5CCC8C3CFB44E0E9A52FAB4B236873C)
+
+> 版本控制的区别
+
+> 使用Git来管理文件
+
+> Git分支的操作
+
+> 常用操作处理
